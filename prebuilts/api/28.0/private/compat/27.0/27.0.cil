@@ -1178,6 +1178,7 @@
     proc_dirty
     proc_diskstats
     proc_extra_free_kbytes
+    deny_new_usb
     proc_filesystems
     proc_hostname
     proc_hung_task

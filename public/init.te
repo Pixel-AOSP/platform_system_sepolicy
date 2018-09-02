@@ -296,6 +296,7 @@ allow init {
   proc_hostname
   proc_hung_task
   proc_extra_free_kbytes
+  deny_new_usb
   proc_net
   proc_max_map_count
   proc_min_free_order_shift
